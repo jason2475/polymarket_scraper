@@ -1,0 +1,1 @@
+Adapter integration for polymarket_scraper
